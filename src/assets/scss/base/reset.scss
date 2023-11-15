@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+ul,li{
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}

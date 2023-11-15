@@ -1,0 +1,25 @@
+header{
+    background-image: url("https://preview.colorlib.com/theme/pulse/img/slider/slider-1.jpg.webp");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    .sectionTitleContent{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        .sectionTitle{
+        color: #fff;
+        font-size: 110px;
+        font-weight: 500;
+        
+    }
+    .sectionTitleDesc{
+        color: #fff;
+        display: flex;
+        justify-content: flex-end;
+    }
+    }
+
+}
